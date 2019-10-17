@@ -1,5 +1,11 @@
 # Release History
 
+### 0.34.1 / 2019-10-17
+
+#### Performance Improvements
+
+* Update lower-level client network configuration
+
 ### 0.34.0 / 2019-08-23
 
 #### Features
