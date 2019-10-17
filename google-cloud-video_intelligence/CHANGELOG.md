@@ -1,5 +1,20 @@
 # Release History
 
+### 2.0.0 / 2019-10-17
+
+#### ⚠ BREAKING CHANGES
+
+* **videointelligence:** Change features argument for the  annotate_video
+* The API has been retired.
+
+#### Features
+
+* Remove v1beta1
+
+#### Bug Fixes
+
+* Update annotate_video method signature
+
 ### 1.4.0 / 2019-08-13
 
 * Add VideoAnnotationResults fields
